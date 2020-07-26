@@ -1,0 +1,17 @@
+.selected {
+  text-decoration: none;
+}
+
+.selected:active {
+  font-weight: bold;
+  color: cornflowerblue;
+}
+
+.selected1 {
+  text-decoration: none;
+}
+
+.selected1:active {
+  font-weight: bold;
+  color: cornflowerblue;
+}
